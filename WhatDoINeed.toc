@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: What do I need?
+## Notes: Lists you lowest 10 gear pieces
+## Version: 1.0.0 - Alpha
+## Author: keithhand
+
+WhatDoINeed.lua
