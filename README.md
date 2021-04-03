@@ -1,4 +1,4 @@
-# What do I Need?
+# What do I need?
 A World of Warcraft addon that pulls the current characters items, sorts them, then visualizes the lowest items.
 
 ## Usage
